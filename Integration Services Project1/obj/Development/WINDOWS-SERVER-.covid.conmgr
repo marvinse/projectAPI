@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="WINDOWS-SERVER-.covid"
+  DTS:DTSID="{32AE2DAC-6B70-432E-968D-96A4E3FBA06C}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WINDOWS-SERVER-;Initial Catalog=covid;Integrated Security=True;Application Name=SSIS-Integration Services Project1-{32AE2DAC-6B70-432E-968D-96A4E3FBA06C}WINDOWS-SERVER-.covid;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
